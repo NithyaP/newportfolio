@@ -27,3 +27,6 @@ This project makes use of ***sentiment analysis*** of cryptocurrency coupled wit
 * **Python libraries used:** Streamlit, python-binance, cctx, talib
 * **Input:** Cryptocurrency historical price
 * **Output:** Trading signals triggers buying and selling
+
+## Special notes
+- always open vscode sperately for the specific resporitory folder not  the base folder
